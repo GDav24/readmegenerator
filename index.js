@@ -92,14 +92,16 @@ promptMe ()
     .then(data => {
         console.log(data)
 
-        let fileContent = `# ${data.title}       License: ${data.license}
+        let fileContent = `# ${data.title}       
+License: ${data.license}
+
 ## Table of Contents:
-[Description](/README/description)
-[Installation](/README/installation)
-[Usage](/README/usage)
-[Contribution Guidelines](/README/Contribution)
-[Test Instructions](/README/test)
-[Questions](/README/questions)
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[Contribution Guidelines](#contribution)
+[Test Instructions](#test)
+[Questions](#questions)
 
 
 ## Description: 
