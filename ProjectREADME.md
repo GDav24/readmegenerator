@@ -24,5 +24,11 @@ User can make a new README by running the program again and it will overwrite pr
 https://github/GDav24.com
 
 For any questions please visit application author's github.
+## Links to Program
+Github Repo: 
+https://github.com/GDav24/readmegenerator
+Google Drive with demo video:
+https://drive.google.com/file/d/1nm5TxgZKvF8j5lSrPTdXpVGokZq7XFvr/view
+
 
 ![screenshot](./images/screenshot.png)
